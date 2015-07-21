@@ -1,1 +1,1 @@
-web: bundle exec slideshow.rb -p $PORT
+web: bundle exec ruby slideshow.rb -p $PORT
