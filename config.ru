@@ -1,5 +1,4 @@
-require './public'
-require './views'
+require './slideshow'
 
 map "/public" do
   run Rack::Directory.new("./public")
