@@ -1,1 +1,1 @@
-web: bundle exec ruby slideshow.rb -p $PORT
+web: bundle exec rackup config.ru -p $PORT
